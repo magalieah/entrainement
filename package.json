@@ -1,0 +1,27 @@
+{
+  "name": "ece-routing",
+  "version": "1.0.0",
+  "description": "basic routing app",
+  "main": "index.js",
+  "dependencies": {
+    "semver": "^7.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magalieah/entrainement.git"
+  },
+  "keywords": [
+    "basic",
+    "routing"
+  ],
+  "author": "magalieah",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/magalieah/entrainement/issues"
+  },
+  "homepage": "https://github.com/magalieah/entrainement#readme"
+}

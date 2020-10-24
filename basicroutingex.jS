@@ -22,7 +22,7 @@ const serverHandle = function(req, res){
 
   if (path==='/'){
     res.write('please hello in your url and a name if you want as http://localhost:8080/hello(?name=magalie)\n');
-  }else if (path==='/hello' and name in params){
+  }else if (path==='/hello' && name in params){
     if (name==='magalie'){
       res.write('hello i am magalie\n');
     }
